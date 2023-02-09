@@ -1,0 +1,20 @@
+{
+  "name": "source-action",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"npm build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandani568/source-action.git"
+  },
+  "author": "nandani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nandani568/source-action/issues"
+  },
+  "homepage": "https://github.com/Nandani568/source-action#readme"
+}
